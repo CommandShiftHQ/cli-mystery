@@ -27,25 +27,35 @@ The Command Line Murders
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
-To figure out whodunit, you need access to a command line.
+Before you start, make sure you have read the command-line and version-control bytes. You might want to use them as a reference while solving the mystery.
 
-Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
+Don't use a text editor. The objective of this exercise it to get more comfortable using the command line, and you will find that it is an incredibly powerful tool on its own.
 
-Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
+You can use Google, course materials, cheatsheets or any other materials available.
 
-One way you can do this is with the command:
+## Step 1: Getting set up
 
-	cat instructions
+Once you're ready, (**fork**)[https://docs.gitlab.com/ce/gitlab-basics/fork-project.html] this repo using the button at the top of the page. Forking will make a copy of the repository in your own GitLab account.
 
-(`cat` is a command that will print the contents of the file called `instructions` for you to read.)
+Once you've done that, (clone)[https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html#start-working-on-your-project] the repository onto your local machine.
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+## Step 2: Investigate!
 
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+There are three directories in this repo - `mystery`, `steps` and `hints`
+
+- `mystery` contains all of the information you will need to go through to solve the mystery
+- `steps` contains some instructions to guide you on your way
+- `hints` contains some hints for some of the steps - don't use these until you've attempted to solve the step yourself, and be aware that not every step has a hint.
+
+To get started, open a Terminal, go to the location of the files, and start by reading the file `steps/step0`.
+
+Good luck!
 
 ### Credits
 
-By Noah Veltman  
-Projects: [noahveltman.com](http://noahveltman.com)  
-GitHub: [veltman](https://github.com/veltman)  
-Twitter: [@veltman](https://twitter.com/veltman)  
+By Noah Veltman
+Projects: [noahveltman.com](http://noahveltman.com)
+GitHub: [veltman](https://github.com/veltman)
+Twitter: [@veltman](https://twitter.com/veltman)
+
+Adapted from (the original)[https://github.com/veltman/clmystery] by the MCR Codes team
