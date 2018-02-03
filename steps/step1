@@ -1,0 +1,13 @@
+Now you've taken a look around the mystery files, it's time to start collecting clues.
+
+Using the "less" command, have a read of the "crimescene" file.
+
+It's a pretty long file - The officers on the scene are meticulous, and haveve written down EVERYTHING in their officer reports.
+
+Fortunately the sergeant went through and marked the real clues with the word "CLUE" in all caps.
+
+Your first challenge is to search for lines in the file marked with the word 'CLUE'.
+
+Once you've found all the clues it's time to save them to a file for future reference. Can you remember how to redirect some text output into a new file?
+
+Once you've got the clues saved into a "clues.txt" file, move onto "step2"

@@ -37,7 +37,7 @@ You can use Google, course materials, cheatsheets or any other materials availab
 
 Once you're ready, (**fork**)[https://docs.gitlab.com/ce/gitlab-basics/fork-project.html] this repo using the button at the top of the page. Forking will make a copy of the repository in your own GitLab account.
 
-Once you've done that, (clone)[https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html#start-working-on-your-project] the repository onto your local machine.
+Once you've done that, (clone)[https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html#start-working-on-your-project] your copy of the repository onto your local machine.
 
 ## Step 2: Investigate!
 
