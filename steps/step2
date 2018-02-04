@@ -4,6 +4,11 @@ Your challenge is to get your first clues onto GitLab.
 
 To do this you'll need to add the clues.txt to the staging area, commit them to git with a meaningful commit message, and finally push the commit to the remote repository.
 
+- Can you explain what the git staging area is?
+- How can you find the URL of the remote repository?
+
+If you get stuck, check hint1.
+
 Once you've done, check your repository on the GitLab website to see that they're there. Now if anything unfortunate should happen, the clues will be safe.
 
 Now move on to step3
