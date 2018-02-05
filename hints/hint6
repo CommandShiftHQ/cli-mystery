@@ -1,9 +1,22 @@
+Now you need to search for multiple keywords in one file. How can you combine `grep` with flags and the pipe operator ('|') to filter the vehicle records for:
+
+* car model
+* car color
+* license plate number
+* suspect's height
+
 To find a matching license plate, or a matching car, you can use grep on the 'vehicles' file:
 
-	grep "Honda" vehicles
+	grep "Honda" mystery/vehicles
 
-	grep "Blue" vehicles
+	grep "Blue" mystery/vehicles
 
-	grep "L337" vehicles
+	grep "L337" mystery/vehicles
 
 This doesn't give us anything useful - why not? Try using 'head' on the file to investigate its structure.
+
+You can use the -A and -B flags with grep to get the matching lines plus the lines after (-A) or before (-B)
+
+  grep "Honda" -B 1 mystery/vehicles
+
+This will give you all lines matching "Honda", plus the lines before the matches too.

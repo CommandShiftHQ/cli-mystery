@@ -10,6 +10,6 @@ Among the information available in 'possible_witnesses.txt', you have references
 
 Write the relevant line in each of the two address files to a file called 'interviews.txt'. Commit it and push to GitLab.
 
-If you get stuck check out hint3.
+If you get stuck check out hint4.
 
 Move on to step5.

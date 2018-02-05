@@ -1,5 +1,3 @@
-To find all the Annabels' addresses, use the 'people' file:
+You know how to use head and tail to view the first or last X lines of a file.
 
-	grep "Annabel" people
-
-Notice that not all of the results are worth investigating.  Remember what we know about Annabel.
+Try combining these commands with a pipe to view a single line from a file.
