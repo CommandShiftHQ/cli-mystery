@@ -27,7 +27,7 @@ The Command Line Murders
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
-Before you start, make sure you have read the command-line and version-control bytes. You might want to use them as a reference while solving the mystery.
+Before you start, make sure you have read the command-line byte and you're familiar with Git commands. You might want to use them as a reference while solving the mystery.
 
 Don't use a text editor. The objective of this exercise it to get more comfortable using the command line, and you will find that it is an incredibly powerful tool on its own.
 
