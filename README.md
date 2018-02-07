@@ -35,9 +35,7 @@ You can use Google, course materials, cheatsheets or any other materials availab
 
 ## Step 1: Getting set up
 
-Once you're ready, (**fork**)[https://docs.gitlab.com/ce/gitlab-basics/fork-project.html] this repo using the button at the top of the page. Forking will make a copy of the repository in your own GitLab account.
-
-Once you've done that, (clone)[https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html#start-working-on-your-project] your copy of the repository onto your local machine.
+Once you're ready, you'll need to fork this repository to your own account and clone it down. You can find instructions on how to do this [here](https://help.github.com/articles/fork-a-repo/) (follow both section headings _Fork an example repository_ and _Keep your fork synced_).
 
 ## Step 2: Investigate!
 
@@ -58,4 +56,4 @@ Projects: [noahveltman.com](http://noahveltman.com)
 GitHub: [veltman](https://github.com/veltman)
 Twitter: [@veltman](https://twitter.com/veltman)
 
-Adapted from (the original)[https://github.com/veltman/clmystery] by the MCR Codes team
+Adapted from [the original](https://github.com/veltman/clmystery) for the Manchester Codes curriculum.
