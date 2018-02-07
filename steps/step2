@@ -1,6 +1,6 @@
 A good detective always backs up their investigation files. You never know what 'accidents' you and your evidence might be involved in when investigating this kind of crime...
 
-Your challenge is to get your first clues onto GitLab.
+Your challenge is to get your first clues onto GitHub.
 
 To do this you'll need to add the clues.txt to the staging area, commit them to git with a meaningful commit message, and finally push the commit to the remote repository.
 
@@ -9,6 +9,6 @@ To do this you'll need to add the clues.txt to the staging area, commit them to 
 
 If you get stuck, check hint2.
 
-Once you've done, check your repository on the GitLab website to see that they're there. Now if anything unfortunate should happen, the clues will be safe.
+Once you've done, check your remote repository on GitHub to see that they're there. Now if anything unfortunate should happen, the clues will be safe.
 
 Now move on to step3

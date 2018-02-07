@@ -4,7 +4,7 @@ To close the investigation and let the courts do their work, save his name in a 
 
 Change permissions on the file so that you are the only one able to edit it (everyone else can read the contents). There was a case last summer where a convict was switched out for an innocent man on the way to jail - and we don't want that happening again!
 
-Add & commit 'jail.txt' and push to GitLab. 
+Add & commit 'jail.txt' and push to GitHub. 
 
 Now make a pull request back to the original Manchester Codes repository so the chief can review your work.
 
