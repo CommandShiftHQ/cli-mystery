@@ -6,6 +6,6 @@ Change permissions on the file so that you are the only one able to edit it (eve
 
 Add & commit 'jail.txt' and push to GitHub. 
 
-Now make a pull request back to the original Manchester Codes repository so the chief can review your work.
+Now make a pull request from your fork (see hint8 if unsure) back to the original Manchester Codes repository so the chief can review your work.
 
 You can now relax and wait for that promotion, Detective!
