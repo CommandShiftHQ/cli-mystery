@@ -1,29 +1,3 @@
-The Command Line Murders
-========================
-
-	.OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
-	OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
-	OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
-	OOOOO'' aaa@@@@@@@@@@@@@@@@@@@@"""                   """""""""@@aaaa `OOOO
-	OOOOO,""""@@@@@@@@@@@@@@""""                                     a@"" OOOA
-	OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
-	OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
-	OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
-	OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
-	OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
-	OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
-	OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
-	OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
-	OOOOOOOOOOOOOOOOOOO@                               aaaaaaa       @@',OOOOn
-	OOOOOOOOOOOOOOOOOOO@                        aaa@@@@@@@@""        @@ OOOOOi
-	OOOOOOOOOO~~ aaaaaa"a                 aaa@@@@@@@@@@""            @@ OOOOOx
-	OOOOOO aaaa@"""""""" ""            @@@@@@@@@@@@""               @@@|`OOOO'
-	OOOOOOOo`@@a                  aa@@  @@@@@@@""         a@        @@@@ OOOO9
-	OOOOOOO'  `@@a               @@a@@   @@""           a@@   a     |@@@ OOOO3
-	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
-
 
 There's been a murder in Terminal City, and TCPD needs your help.
 
