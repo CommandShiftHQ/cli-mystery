@@ -1,0 +1,67 @@
+Color: Red
+Owner: Pietro Walker
+Height: 6'3"
+Weight: 244 lbs
+
+License Plate QF0841F
+Make: Honda
+Color: Pink
+Owner: Khairul Morningstar
+Height: 6'4"
+Weight: 189 lbs
+
+License Plate WX53MLK
+Make: Honda
+Color: Gold
+Owner: Luis Petkovic
+Height: 6'2"
+Weight: 212 lbs
+
+License Plate KZPT3ID
+Make: Honda
+Color: Teal
+Owner: Astrida Roche
+Height: 6'3"
+Weight: 219 lbs
+
+License Plate I11EHT6
+Make: Honda
+Color: Gold
+Owner: Inna Yu
+Height: 6'2"
+Weight: 212 lbs
+
+License Plate VJK4O32
+Make: Honda
+Color: Blue
+Owner: Darae Charlos
+Height: 6'2"
+Weight: 188 lbs
+
+License Plate 4XIANUJ
+Make: Honda
+Color: Black
+Owner: Anderson Oh
+Height: 6'3"
+Weight: 224 lbs
+
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+License Plate P8ECLQ3
+Make: Honda
+Color: Red
+Owner: Tina Hristova
+Height: 6'0"
+Weight: 167 lbs
+
+License Plate HJZBM70
+Make: Honda
+Color: Red
+Owner: Nathan Zhang
+Height: 6'3"
+Weight: 170 lbs
