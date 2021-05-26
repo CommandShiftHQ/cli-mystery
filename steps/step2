@@ -1,0 +1,9 @@
+Take a look inside your 'clues.txt'. 
+
+Using the barista's description in the third clue, your next challenge is to search through the 'people' file in the 'mystery' directory, and make a list of women (and their addresses) matching the description of the witness from the coffee shop.
+
+If you get stuck, take a look at hint2.
+
+Once you've got your list, write it into a file called 'possible_witnesses.txt' and save it.
+
+Once you've done that go to step3.

@@ -1,9 +1,13 @@
-Now you have more information to identify the perpetrator. Peek into the './mystery/vehicles' file. What information does it contain? Cross-reference it with your 'clues.txt' again - is there anything else you could search for in the vehicles record?
+There is one final outstanding clue from your original clues.txt files that hasn't been used: the list of memberships in the wallet found at the crime scene. 
 
-Your challenge is to filter the vehicle records for vehicles that match all of the clues you have available.
+If you can figure out which of your 4 suspects holds all of the membership cards found in the wallet, there's a good chance you'll have your culprit.
 
-Save the list of suspects into a new file called 'suspects.txt'.
+What files does the './mystery/memberships' subdirectory contain? What's inside these files?
 
-Move on to step 7.
+Remember that the `cat` command was originally intended for concatenating files. Using this how can you tell if one suspect has all of the memberships?
 
-If you get stuck, take a look at hint6.
+How many membership cards were in the wallet? Can you automatically count if the suspect has all of them using `grep`, `wc` commands and the pipe operator?
+
+If you managed to narrow your investigation down to one suspect, read the `solution` file to verify that you have found the killer and move on to 'step7'
+
+If not, retrace your steps until there is only one suspect.

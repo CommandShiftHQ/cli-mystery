@@ -1,0 +1,22 @@
+Try poking around the contents of a file by using the 'head' command:
+
+  head -n 20 people
+
+This will show you the first 20 lines of the 'people' file.
+
+Take note of the column headings. 
+
+Using the grep command search for the witnesses name in the 'people' file, and then use the pipe operator to search that list by gender.
+
+When searching the file, remember that grep uses regular expressions to match the text.
+
+Regular expressions (Regex or RegExp) allow you to describe a complex pattern to search for in some text - you can use this to your advantage here.
+
+For example, in RegExp, the ^ character means "the beginning of a line"
+To search for the word "Annabel" at the start of a line, you can use the regular expression "^Annabel".
+
+\s is a space in RegExp. To search for the letter F surrounded by spaces, you can try "\sF\s"
+
+Combining these two should help you find the people you're looking for.
+
+Regular Expressions can be a tricky thing to get your head around, but are a powerful tool and are definitely worth being comfortable with, even if you're not an expert.

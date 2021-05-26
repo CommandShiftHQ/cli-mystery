@@ -1,1 +1,9 @@
-You found two witness interview files. Take a look inside both of them and save any useful information into a new file called 'interview_info.txt'.
+Now you have more information to identify the perpetrator. Peek into the './mystery/vehicles' file. What information does it contain? Cross-reference it with your 'clues.txt' again - is there anything else you could search for in the vehicles record?
+
+Your challenge is to filter the vehicle records for vehicles that match all of the clues you have available.
+
+Save the list of suspects into a new file called 'suspects.txt'.
+
+Move on to step 6.
+
+If you get stuck, take a look at hint5.
