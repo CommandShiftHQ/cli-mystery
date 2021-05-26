@@ -1,4 +1,4 @@
-You should now have 2 matches for women named 'Annabel'. You also their addresses.
+You should now have 2 matches for women named 'Annabel'. You also have their addresses.
 
 There is a 'streets' subdirectory in the 'mystery' directory with a list of files named after streets.
 
@@ -8,7 +8,7 @@ Take a look inside the files you've found.
 
 Among the information available in 'possible_witnesses.txt', you have references to line numbers. See if you can use the line numbers to discover something useful about the witnesses.
 
-Write the relevant line in each of the two address files to a file called 'interviews.txt'. Commit it and push to GitHub.
+Write the relevant line in each of the two address files to a file called 'interviews.txt', and save it.
 
 If you get stuck check out hint4.
 

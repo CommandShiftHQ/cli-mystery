@@ -2,7 +2,7 @@ Now you have more information to identify the perpetrator. Peek into the './myst
 
 Your challenge is to filter the vehicle records for vehicles that match all of the clues you have available.
 
-Save the list of suspects into a new file called 'suspects.txt', commit and push to GitHub.
+Save the list of suspects into a new file called 'suspects.txt'.
 
 Move on to step 7.
 

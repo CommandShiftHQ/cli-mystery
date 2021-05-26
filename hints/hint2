@@ -1,7 +1,0 @@
-You will need the git add, commit and push commands for this task.
-
-Use 'git add [file]' to add a file to the staging area. 
-
-Use 'git commit' to commit the file to git.
-
-Use 'git push origin master' to push to the remote repository.
