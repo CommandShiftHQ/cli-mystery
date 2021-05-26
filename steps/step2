@@ -1,14 +1,9 @@
-A good detective always backs up their investigation files. You never know what 'accidents' you and your evidence might be involved in when investigating this kind of crime...
+Take a look inside your 'clues.txt'. 
 
-Your challenge is to get your first clues onto GitHub.
+Using the barista's description in the third clue, your next challenge is to search through the 'people' file in the 'mystery' directory, and make a list of women (and their addresses) matching the description of the witness from the coffee shop.
 
-To do this you'll need to add the clues.txt to the staging area, commit them to git with a meaningful commit message, and finally push the commit to the remote repository.
+If you get stuck, take a look at hint2.
 
-- Can you explain what the git staging area is?
-- How can you find the URL of the remote repository?
+Once you've got your list, write it into a file called 'possible_witnesses.txt' and save it.
 
-If you get stuck, check hint2.
-
-Once you've done, check your remote repository on GitHub to see that they're there. Now if anything unfortunate should happen, the clues will be safe.
-
-Now move on to step3
+Once you've done that go to step3.
