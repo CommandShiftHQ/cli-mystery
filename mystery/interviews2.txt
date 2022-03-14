@@ -1,0 +1,203 @@
+==> crimescene <==
+*******
+Crime Scene Report #262227712435
+********
+
+'Nor I,' said the March Hare.
+
+Alice sighed wearily. 'I think you might do something better with the
+time,' she said, 'than waste it in asking riddles that have no answers.'
+
+'If you knew Time as well as I do,' said the Hatter, 'you wouldn't talk
+about wasting IT. It's HIM.'
+
+
+
+*******
+Crime Scene Report #142164895957
+********
+The Hatter was the first to break the silence. 'What day of the month
+is it?' he said, turning to Alice: he had taken his watch out of his
+pocket, and was looking at it uneasily, shaking it every now and then,
+and holding it to his ear.
+
+Alice considered a little, and then said 'The fourth.'
+
+'Two days wrong!' sighed the Hatter. 'I told you butter wouldn't suit
+the works!' he added looking angrily at the March Hare.
+
+
+
+*******
+Crime Scene Report #173979704051
+********
+As she said these words her foot slipped, and in another moment, splash!
+she was up to her chin in salt water. Her first idea was that she
+had somehow fallen into the sea, 'and in that case I can go back by
+railway,' she said to herself. (Alice had been to the seaside once in
+her life, and had come to the general conclusion, that wherever you go
+to on the English coast you find a number of bathing machines in the
+sea, some children digging in the sand with wooden spades, then a row
+of lodging houses, and behind them a railway station.) However, she soon
+
+==> final.txt <==
+      4 Aldo Nicolas
+      4 Andrei Masna
+      4 Augustin Lozano
+      4 Brian Boyer
+      4 Dalibor Vidal
+      4 Deron Estanguet
+      4 Didier Munoz
+      4 Emma Wei
+      4 Jamila Rodhe
+      4 Jeremy Bowers
+      4 Kelly Kulish
+      4 Krystian Pen
+      4 Liangliang Miller
+      4 Marina Murphy
+      4 Mary Tomashova
+      4 Matt Waite
+      4 Mike Bostock
+      4 Monika Hwang
+      4 Nikolaus Milatz
+      4 Sonata Raif
+      4 Stephanie Adlington
+      4 Tamara Cafaro
+
+==> interviews <==
+
+==> memberships <==
+
+==> people <==
+***************
+To go to the street someone lives on, use the file
+for that street name in the 'streets' subdirectory.
+To knock on their door and investigate, read the line number
+they live on from the file.  If a line looks like gibberish, you're at the wrong house.
+***************
+
+NAME	GENDER	AGE	ADDRESS
+Alicia Fuentes	F	48	Walton Street, line 433
+Jo-Ting Losev	F	46	Hemenway Street, line 390
+Elena Edmonds	F	58	Elmwood Avenue, line 123
+Naydene Cabral	F	46	Winthrop Street, line 454
+Dato Rosengren	M	22	Mystic Street, line 477
+Fernanda Serrano	F	37	Redlands Road, line 392
+Emiliano Wenk	M	90	Paulding Street, line 490
+Larry Lapin	M	71	Atwill Road, line 298
+Jakub Gondos	M	61	Mitchell Street, line 187
+Derek Kazanin	M	55	Tennis Road, line 440
+Jens Tuimalealiifano	M	83	Rockwood Street, line 205
+Nikola Kadhi	M	75	Glenville Avenue, line 226
+Takayuki Dundar	M	27	Cornelia Street, line 61
+Njisane Arkhipova	M	73	Charles River Avenue, line 459
+Rauli Schlanger	M	18	Dexter Street, line 432
+Vera Frangilli	F	48	Hill Top Street, line 25
+Marilyn Dominguez	F	43	Celia Road, line 67
+Reza Scown	M	27	Southbound Frontage Road, line 228
+Ahmed Sorokina	M	28	Long Avenue, line 427
+Robert Marennikova	M	78	Parkson Street, line 24
+Esthera Koschischek	F	23	Willowwood Street, line 248
+Yunhee Hatsko	F	38	Leniston Street, line 25
+Anna Choi	F	80	Maybury Street, line 180
+Jingjing Gray	F	88	Anselm Terrace, line 248
+Jaroslaw Kalina	M	65	Greenmount Place, line 110
+Daniella Subschinski	F	65	Spring Valley Road, line 336
+Jonathan Niit	M	38	Cazenove Street, line 276
+Kelly Gemmell	F	24	Johnson Avenue, line 219
+Todor Tong	M	72	Newhall Place, line 16
+Hamish Drabenia	M	84	Cheshire Street, line 174
+Petr Smith	M	64	Townsend Street, line 131
+Hedvig Alameri	F	58	Tobin Bridge, line 129
+
+==> possible_witnesses.txt <==
+Annabel Sun	F	26	Hart Place, line 40
+Oluwasegun Annabel	M	37	Mattapan Street, line 173
+Annabel Church	F	38	Buckingham Place, line 179
+Annabel Fuglsang	M	40	Haley Street, line 176
+
+==> streets <==
+
+==> vehicle-owners-6.0.txt <==
+vehicles-Make: Volkswagen
+vehicles-Color: Green
+vehicles-Owner: Adrianti Tsirekidze
+vehicles:Height: 6'0"
+--
+vehicles-Make: Volkswagen
+vehicles-Color: Pink
+vehicles-Owner: Bianca Al-Attiya
+vehicles:Height: 6'0"
+--
+vehicles-Make: Nissan
+vehicles-Color: Yellow
+vehicles-Owner: Peter Ochoa
+vehicles:Height: 6'0"
+--
+vehicles-Make: Subaru
+vehicles-Color: Teal
+vehicles-Owner: Oleksiy Ferrer
+vehicles:Height: 6'0"
+--
+vehicles-Make: Honda
+vehicles-Color: Green
+vehicles-Owner: Marianne Li
+vehicles:Height: 6'0"
+--
+vehicles-Make: Honda
+vehicles-Color: Green
+vehicles-Owner: Emiliano Wenk
+vehicles:Height: 6'0"
+--
+vehicles-Make: Audi
+vehicles-Color: Gold
+vehicles-Owner: Rena Jankovic
+vehicles:Height: 6'0"
+--
+vehicles-Make: Mazda
+vehicles-Color: Blue
+vehicles-Owner: Trey Kuczko
+vehicles:Height: 6'0"
+--
+
+==> vehicles <==
+***************
+Vehicle and owner information from the Terminal City Department of Motor Vehicles
+***************
+
+License Plate T3YUHF6
+Make: Toyota
+Color: Yellow
+Owner: Jianbo Megannem
+Height: 5'6"
+Weight: 246 lbs
+
+License Plate EZ21ECE
+Make: BMW
+Color: Gold
+Owner: Norbert Feldwehr
+Height: 5'3"
+Weight: 205 lbs
+
+License Plate CQN2TJE
+Make: Mazda
+Color: Red
+Owner: Alexandra Jokinen
+Height: 5'11"
+Weight: 227 lbs
+
+License Plate D875IMS
+Make: Cadillac
+Color: Orange
+Owner: Thi Kostadinov
+Height: 5'11"
+Weight: 198 lbs
+
+License Plate Q0SK1KP
+Make: Cadillac
+Color: Red
+Owner: Sidni Sze
+Height: 5'9"
+Weight: 199 lbs
+
+License Plate AJ0AHI2
