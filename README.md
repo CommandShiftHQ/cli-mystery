@@ -56,4 +56,4 @@ Projects: [noahveltman.com](http://noahveltman.com)
 GitHub: [veltman](https://github.com/veltman)
 Twitter: [@veltman](https://twitter.com/veltman)
 
-Adapted from [the original](https://github.com/veltman/clmystery) for the Manchester Codes curriculum.
+Adapted from [the original](https://github.com/veltman/clmystery) for the Command Shift curriculum.
